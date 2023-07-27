@@ -4,18 +4,6 @@
 - 🔭 Getting my hands dirty with Ml, to master the art of AI.
 - 👯 Looking for Internship and collaborative projects.
 
-## 💻 Languages and Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Postman](https://img.shields.io/badge/-POSTMAN-orange?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=for-the-badge&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  	 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ## 🌐 Socials
 <a href="https://www.linkedin.com/in/utkarsh-singh-b9b044219/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/3156singh">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
